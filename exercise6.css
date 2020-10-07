@@ -3,9 +3,14 @@
 #e6 .container {
     height: 500px;
     width: 1000px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 #e6 .item {
     height: 100px;
-    width: 400px;
+    width: 400px; 
 }
+

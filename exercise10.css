@@ -1,1 +1,33 @@
 /* Solve Exercise 10 here */
+
+.Nav{
+    display: flex;
+    padding: 2% 10%;
+    flex-direction: row;
+    background: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    justify-content: space-between;
+}
+
+.Navbar {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    width: 12%;
+}
+
+.Nav2 {
+    margin-right: 10%;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    background: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
